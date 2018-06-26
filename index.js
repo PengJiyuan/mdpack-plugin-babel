@@ -2,7 +2,9 @@ const { transform } = require('@babel/core');
 
 class mdpackPluginBabel {
   constructor(opts = {}) {
-    const defaultOptions = {};
+    const defaultOptions = {
+      filename: 'mdpack-exec'
+    };
     this.opts = Object.assign({}, defaultOptions, opts);
   }
 
