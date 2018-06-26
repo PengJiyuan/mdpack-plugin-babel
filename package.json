@@ -1,0 +1,26 @@
+{
+  "name": "mdpack-plugin-babel",
+  "version": "0.0.0",
+  "description": "A mdpack plugin use babel to transform mdpack-exec code to es5.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PengJiyuan/mdpack-plugin-babel.git"
+  },
+  "keywords": [
+    "mdpack",
+    "babel",
+    "es6",
+    "es7",
+    "compile"
+  ],
+  "author": "PengJiyuan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PengJiyuan/mdpack-plugin-babel/issues"
+  },
+  "homepage": "https://github.com/PengJiyuan/mdpack-plugin-babel#readme"
+}
