@@ -1,6 +1,6 @@
 {
   "name": "mdpack-plugin-babel",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A mdpack plugin use babel to transform mdpack-exec code to es5.",
   "main": "index.js",
   "scripts": {
